@@ -34,6 +34,8 @@ const person = { name: "Tèo", age: 18, job: "tester" };
     -- substring(start,end): Cắt 1 đoạn con trong chuỗi 
 
     -- indexOf():Tìm vị trí xuất hiện đầu tiên của chuỗi con 
+    
+    -- lastindexOf(): Tìm vị trí xuất hiện cuối cùng của chuỗi con 
 
 6. Array until function
 - Các phương thức xử lý mảng và chuỗi 
