@@ -1,4 +1,4 @@
-//customer1
+//customer123
 class Customer {
     id: string;
     name: string;
