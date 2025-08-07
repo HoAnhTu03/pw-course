@@ -1,4 +1,4 @@
-//team 
+//team1
 class Team {
     name: string; 
     players: {
