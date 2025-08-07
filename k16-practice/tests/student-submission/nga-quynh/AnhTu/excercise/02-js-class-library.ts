@@ -1,4 +1,4 @@
-//library 123
+//library 
 class Library {
     name: string;
     location: string;

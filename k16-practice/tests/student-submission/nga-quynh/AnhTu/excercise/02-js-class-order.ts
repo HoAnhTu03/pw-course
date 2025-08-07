@@ -1,4 +1,4 @@
-//order 123
+//order 
 class Order {
     orderID: string;
     customerName: string;
